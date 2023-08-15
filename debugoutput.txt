@@ -1,0 +1,172 @@
+Committee count 2
+Total number of steps to be proven: 2
+Creating a new ParallelSNARK instance...
+NEW for i_start and i_end: 0, 1
+NEW: Clone/copy time wasted: 9.941666467s
+ParallelSNARK New! par_chunk-ing all nodes took: 14.571714206s
+ParallelSNARK instantiation took 18.667946469s
+Generating proof for ParallelSNARK...
+number of nodes: 1
+Height of node tree: 1
+Generating proofs for height: 0
+ParallelSNARK proof creation took 13.179µs
+
+Committee count 4
+Total number of steps to be proven: 4
+Creating a new ParallelSNARK instance...
+NEW for i_start and i_end: 2, 3
+NEW: Clone/copy time wasted: 15.557781418s
+NEW for i_start and i_end: 0, 1
+NEW: Clone/copy time wasted: 15.96592835s
+ParallelSNARK New! par_chunk-ing all nodes took: 28.776298844s
+ParallelSNARK instantiation took 32.852403074s
+Generating proof for ParallelSNARK...
+number of nodes: 2
+Height of node tree: 2
+Generating proofs for height: 0
+Merge: Clone/copy time wasted for node 0 and 1: 5.178868538s
+RecursiveSNARK creation for heigh 0 took 29.792456121s
+Remaining nodes: 1
+Generating proofs for height: 1
+ParallelSNARK proof creation took 29.792490805s
+
+Committee count 8
+Total number of steps to be proven: 8
+Creating a new ParallelSNARK instance...
+NEW for i_start and i_end: 4, 5
+NEW: Clone/copy time wasted: 11.41570171s
+NEW for i_start and i_end: 0, 1
+NEW: Clone/copy time wasted: 12.19492419s
+NEW for i_start and i_end: 2, 3
+NEW: Clone/copy time wasted: 18.587405504s
+NEW for i_start and i_end: 6, 7
+NEW: Clone/copy time wasted: 19.05198749s
+ParallelSNARK New! par_chunk-ing all nodes took: 33.436435706s
+ParallelSNARK instantiation took 37.526346817s
+Generating proof for ParallelSNARK...
+number of nodes: 4
+Height of node tree: 3
+Generating proofs for height: 0
+Merge: Clone/copy time wasted for node 0 and 1: 7.064859785s
+Merge: Clone/copy time wasted for node 4 and 5: 7.090925512s
+RecursiveSNARK creation for heigh 0 took 43.57259592s
+Remaining nodes: 2
+Generating proofs for height: 1
+Merge: Clone/copy time wasted for node 0 and 3: 5.005704009s
+RecursiveSNARK creation for heigh 1 took 29.842405443s
+Remaining nodes: 1
+Generating proofs for height: 2
+ParallelSNARK proof creation took 73.415057112s
+
+Committee count 16
+Total number of steps to be proven: 16
+Creating a new ParallelSNARK instance...
+NEW for i_start and i_end: 0, 1
+NEW: Clone/copy time wasted: 17.53969396s
+NEW for i_start and i_end: 2, 3
+NEW: Clone/copy time wasted: 18.271942505s
+NEW for i_start and i_end: 8, 9
+NEW: Clone/copy time wasted: 19.126022522s
+NEW for i_start and i_end: 4, 5
+NEW: Clone/copy time wasted: 19.867433185s
+NEW for i_start and i_end: 6, 7
+NEW: Clone/copy time wasted: 21.779596423s
+NEW for i_start and i_end: 12, 13
+NEW: Clone/copy time wasted: 21.988173983s
+NEW for i_start and i_end: 10, 11
+NEW: Clone/copy time wasted: 22.613832211s
+NEW for i_start and i_end: 14, 15
+NEW: Clone/copy time wasted: 22.981404349s
+ParallelSNARK New! par_chunk-ing all nodes took: 59.036175384s
+ParallelSNARK instantiation took 63.144583075s
+Generating proof for ParallelSNARK...
+number of nodes: 8
+Height of node tree: 4
+Generating proofs for height: 0
+Merge: Clone/copy time wasted for node 12 and 13: 7.23075278s
+Merge: Clone/copy time wasted for node 8 and 9: 7.31185627s
+Merge: Clone/copy time wasted for node 4 and 5: 7.442392198s
+Merge: Clone/copy time wasted for node 0 and 1: 7.491193256s
+RecursiveSNARK creation for heigh 0 took 62.444980442s
+Remaining nodes: 4
+Generating proofs for height: 1
+Merge: Clone/copy time wasted for node 8 and 11: 7.20482266s
+Merge: Clone/copy time wasted for node 0 and 3: 7.358794904s
+RecursiveSNARK creation for heigh 1 took 46.921518591s
+Remaining nodes: 2
+Generating proofs for height: 2
+Merge: Clone/copy time wasted for node 0 and 7: 5.001418329s
+RecursiveSNARK creation for heigh 2 took 29.987312197s
+Remaining nodes: 1
+Generating proofs for height: 3
+ParallelSNARK proof creation took 139.353894067s
+
+Committee count 32
+Total number of steps to be proven: 32
+Creating a new ParallelSNARK instance...
+NEW for i_start and i_end: 16, 17
+NEW: Clone/copy time wasted: 57.681329564s
+NEW for i_start and i_end: 4, 5
+NEW: Clone/copy time wasted: 58.102029579s
+NEW for i_start and i_end: 0, 1
+NEW: Clone/copy time wasted: 58.552382723s
+NEW for i_start and i_end: 8, 9
+NEW: Clone/copy time wasted: 59.84593724s
+NEW for i_start and i_end: 24, 25
+NEW: Clone/copy time wasted: 58.00694191s
+NEW for i_start and i_end: 22, 23
+NEW: Clone/copy time wasted: 58.329173329s
+NEW for i_start and i_end: 2, 3
+NEW: Clone/copy time wasted: 58.016933636s
+NEW for i_start and i_end: 28, 29
+NEW: Clone/copy time wasted: 57.781136859s
+NEW for i_start and i_end: 10, 11
+NEW: Clone/copy time wasted: 128.247569867s
+NEW for i_start and i_end: 18, 19
+NEW: Clone/copy time wasted: 145.022285323s
+NEW for i_start and i_end: 14, 15
+NEW: Clone/copy time wasted: 140.412576921s
+NEW for i_start and i_end: 20, 21
+NEW: Clone/copy time wasted: 144.373183992s
+NEW for i_start and i_end: 26, 27
+NEW: Clone/copy time wasted: 127.933676381s
+NEW for i_start and i_end: 30, 31
+NEW: Clone/copy time wasted: 145.640789023s
+NEW for i_start and i_end: 6, 7
+NEW: Clone/copy time wasted: 142.792059366s
+NEW for i_start and i_end: 12, 13
+NEW: Clone/copy time wasted: 146.723010956s
+ParallelSNARK New! par_chunk-ing all nodes took: 249.993278153s
+ParallelSNARK instantiation took 398.769132441s
+Generating proof for ParallelSNARK...
+number of nodes: 16
+Height of node tree: 5
+Generating proofs for height: 0
+Merge: Clone/copy time wasted for node 28 and 29: 224.477043418s
+Merge: Clone/copy time wasted for node 12 and 13: 228.105944683s
+Merge: Clone/copy time wasted for node 20 and 21: 242.751366103s
+Merge: Clone/copy time wasted for node 24 and 25: 292.255807841s
+Merge: Clone/copy time wasted for node 8 and 9: 316.141508196s
+Merge: Clone/copy time wasted for node 16 and 17: 319.57027893s
+Merge: Clone/copy time wasted for node 0 and 1: 377.918360513s
+Merge: Clone/copy time wasted for node 4 and 5: 380.094545111s
+RecursiveSNARK creation for heigh 0 took 583.710283882s
+Remaining nodes: 8
+Generating proofs for height: 1
+Merge: Clone/copy time wasted for node 0 and 3: 37.930764866s
+Merge: Clone/copy time wasted for node 16 and 19: 47.356576115s
+Merge: Clone/copy time wasted for node 8 and 11: 53.075925765s
+Merge: Clone/copy time wasted for node 24 and 27: 69.167432515s
+RecursiveSNARK creation for heigh 1 took 112.951416442s
+Remaining nodes: 4
+Generating proofs for height: 2
+Merge: Clone/copy time wasted for node 0 and 7: 23.252785352s
+Merge: Clone/copy time wasted for node 16 and 23: 31.825176549s
+RecursiveSNARK creation for heigh 2 took 70.726468462s
+Remaining nodes: 2
+Generating proofs for height: 3
+Merge: Clone/copy time wasted for node 0 and 15: 200.277962693s
+RecursiveSNARK creation for heigh 3 took 338.264524692s
+Remaining nodes: 1
+Generating proofs for height: 4
+ParallelSNARK proof creation took 1105.652812372s
